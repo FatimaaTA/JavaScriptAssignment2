@@ -528,13 +528,30 @@
   //  }
   //  }
 
-     // -----------------------------------------Question 13------------------------------------------
+// -----------------------------------------Question 13------------------------------------------
 
     //  var string = "JSResourceS.com";
     //  string = string.toLowerCase();
     //  occurrences(string,"o")
-    
+
     //  function occurrences(s,l){
     //   var arr = s.split(l);
     //   document.write("String : "+s+"<br>There are "+(arr.length-1)+" occurrences(s) of the letter 'o'");
     //  }
+
+ // -----------------------------------------Question 14------------------------------------------
+// var radius = 20, pi = 3.142;
+// document.write("<h1>The Geometrizer</h1>Radius of a circle : "+radius);
+// calcCircumference(pi,radius);
+// calcArea(pi,radius);
+
+// function calcCircumference(pi,radius){
+//   var circumference = 2*pi*radius;
+//   document.write("<br>Circumferece of a circle : "+circumference.toFixed(2));
+// }
+
+// function calcArea(pi,radius){
+//    var area = pi*(Math.pow(radius,2));
+//   document.write("<br>Area of a circle : "+area.toFixed(2));
+
+// }
