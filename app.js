@@ -508,3 +508,24 @@
 // }
 
    // -----------------------------------------Question 12------------------------------------------
+  //  var string = "web development tutorial";
+  //  document.write("String : "+string+"<br>Longest word in the string is :");
+   
+  //  longest(string);
+  //  function longest(string){
+  //    var arr = string.split(" ");
+   
+  //    for(var i=0; i<(arr.length-1);i++){
+  //      var long
+  //      if(arr[i].length>arr[i+1].length){
+  //        long = arr[i];
+   
+   
+  //      document.write(long);
+   
+  //    }
+   
+  //  }
+  //  }
+
+     // -----------------------------------------Question 13------------------------------------------
