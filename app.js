@@ -491,6 +491,18 @@
 
   // }
 
+// -----------------------------------------Question 10------------------------------------------
+//  var string = prompt("Enter a word to check whether it is palindrome or nor?")
+//  palindrome(string);
+// function palindrome(string) {
+//   if (string == string.split('').reverse().join('')) {
+//       alert(string + ' is palindrome.');
+//   }
+//   else {
+//       alert(string + ' is not palindrome.');
+//   }
+// }
+
    // -----------------------------------------Question 11------------------------------------------
 // var string = "the quick brown fox";
 // document.write("String : "+string+"<br>After :");
@@ -555,3 +567,7 @@
 //   document.write("<br>Area of a circle : "+area.toFixed(2));
 
 // }
+
+ 
+
+
