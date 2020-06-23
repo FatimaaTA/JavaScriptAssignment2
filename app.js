@@ -529,3 +529,12 @@
   //  }
 
      // -----------------------------------------Question 13------------------------------------------
+
+    //  var string = "JSResourceS.com";
+    //  string = string.toLowerCase();
+    //  occurrences(string,"o")
+    
+    //  function occurrences(s,l){
+    //   var arr = s.split(l);
+    //   document.write("String : "+s+"<br>There are "+(arr.length-1)+" occurrences(s) of the letter 'o'");
+    //  }
